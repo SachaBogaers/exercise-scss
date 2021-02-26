@@ -1,0 +1,10 @@
+$base-color: #c0eea9;
+$background-color: #ecffe9;
+$bright-color: #97d279;
+$standard-padding: 20px;
+
+/* Hero, featured and about */
+@mixin section {
+  display: flex;
+  justify-content: center;
+}
